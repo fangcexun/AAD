@@ -1,1 +1,70 @@
-<mxfile host="app.diagrams.net" modified="2022-07-11T14:37:34.687Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="ubW0qV0HdgA0rwDhzzU4" version="20.0.4" type="github"><diagram id="tzK2O9EjQciMJNp18Kq7" name="Page-1">1Vddb9owFP01PBYRh4/wSKFdpWlSNTate6rcxASrTpzaDgn79buOne9QtqlU6wPCPr73Yp/je68Zueso/yRwsv/CA8JGaBLkI3czQsiZLF340sjRIDNvaoBQ0MBAkxrY0l+k9LRoSgMiLWYgxTlTNGmDPo9j4qsWhoXgWdtsx1nQAhIckh6w9THroz9ooPYG9dCixu8IDfflLzvzpVmJcGlsTyL3OOBZA3JvRu5acK7MKMrXhGny2rzcnlitNiZIrP7E4Rgu716mvvs5WyC8ir79eqDZFTJRDpil9sAjNGcQ73rHISzsWh0tFfOXlJcLV7IQagUGjpeA2Nf1OoxC/b1mFHYmy3iwMRPSrFpOqugINguawuQ621NFtgn29UoG1wqwvYoYzBwYYpkYoXc0J0EV6kCEIvlJbpyKcbiqhEdEiSOYVPfUimRvqbOw86yhuYX2DblLDNtbFlaRayFgYLX4C13cAV06hMlnony9t8kQKQ3CEk61DuA0ux7NNtqa0TAGwAd6iACARkUaFNraHHRQjW9oFMIxGH3Sh5E+JvB9T4Tk8VgewjfSwJmMpy0VKnobKsyWY/SOOswulx9bIoAvsEAfIkWm6D9Lkfn5FPFToDiwpJA4WOmGoO89w1JSv02a4GkcFNaTdiYgV3vnVD2UkWD8U9uNZ3a2ya1bMTmWkxjO+dCcNLz0tHYrZqWfOQcJep2poxWclafCJ+fru8IiJOrcPe9r30y8AW1LTBCGFT20tzskuP2Fe12RGpm/bF8tNO3cGXNM69VscZ1ArtcJ5HYCGR56geBe4GPDzFbMkxuuXifH9gFO7qvbXrwz9t6r8WFgdlwnT6XZv+eTdz6fyjbRyJqhDuFDmXrEQukhj5IUegyQeWsK3uNX7D8/OsjL4TNO4nAg2S5QroZ6ybuWq2WP3u+SiBhHpDiXlBkXQY9xIEB1yhSB3oKfCoOi86eKS9uyh1q7ZpHCe3ZlFyIaBNp54Fmwo4ytOePgtol5rI2kEvyZdMDXK+VbPAW8WVs8tOyJV2FN9bqF483UKxP+og8B52M8BJxFS5z59FKJBdP675Epc/WfTPfmNw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-11T14:39:34.815Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="CeJTyd8cb71ewWX87PHz" version="20.0.4" type="github">
+  <diagram id="tzK2O9EjQciMJNp18Kq7" name="Page-1">
+    <mxGraphModel dx="1038" dy="555" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yg9Hq4c3Kw72aAmTzXiw-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Clients&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="100" y="170" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yg9Hq4c3Kw72aAmTzXiw-3" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Person.svg;" parent="1" vertex="1">
+          <mxGeometry x="100" y="271" width="59.2" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yg9Hq4c3Kw72aAmTzXiw-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Server 2&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="420" y="170" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yg9Hq4c3Kw72aAmTzXiw-6" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=23;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="yg9Hq4c3Kw72aAmTzXiw-2" target="yg9Hq4c3Kw72aAmTzXiw-5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="240" as="sourcePoint" />
+            <mxPoint x="380" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="190" />
+              <mxPoint x="300" y="180" />
+              <mxPoint x="380" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yg9Hq4c3Kw72aAmTzXiw-8" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png;fontSize=23;" parent="1" vertex="1">
+          <mxGeometry x="512" y="53" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yg9Hq4c3Kw72aAmTzXiw-9" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Username password&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=23;" parent="1" vertex="1">
+          <mxGeometry x="183" y="229" width="201" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yg9Hq4c3Kw72aAmTzXiw-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Server 3&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="417" y="64" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BiNyE8IDNA2KiPy13FJ4-1" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=23;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yg9Hq4c3Kw72aAmTzXiw-2" target="yg9Hq4c3Kw72aAmTzXiw-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="179.5" y="209" as="sourcePoint" />
+            <mxPoint x="419.5" y="209" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="209.5" y="189" />
+              <mxPoint x="308" y="180" />
+              <mxPoint x="379.5" y="189" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BiNyE8IDNA2KiPy13FJ4-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Server 1&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="423" y="269" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BiNyE8IDNA2KiPy13FJ4-4" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=23;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.028;entryY=0.402;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="BiNyE8IDNA2KiPy13FJ4-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="210" as="sourcePoint" />
+            <mxPoint x="420" y="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="190" />
+              <mxPoint x="300" y="180" />
+              <mxPoint x="380" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BiNyE8IDNA2KiPy13FJ4-5" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png;fontSize=23;" vertex="1" parent="1">
+          <mxGeometry x="512" y="162" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BiNyE8IDNA2KiPy13FJ4-6" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png;fontSize=23;" vertex="1" parent="1">
+          <mxGeometry x="516" y="271" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
